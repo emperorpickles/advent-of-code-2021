@@ -2,6 +2,8 @@
 Day 3: Binary Diagnostic
 '''
 
+import time
+
 
 def one_most_common(binary_list):
     '''Returns list where true if 1 appears the most in each position'''
@@ -73,7 +75,7 @@ def binary_to_int(binary):
     return int(binary, 2)
 
 
-def main(input_file):
+def main(input_file, output):
     '''Read input file and call helper functions'''
 
     with open(input_file, 'r', encoding='utf8') as file:
@@ -84,11 +86,17 @@ def main(input_file):
     most_ones = one_most_common(lines)
 
     power_consumption = power_consumption_decode(most_ones)
-    print(f'power consumption: {power_consumption}')
+    if output:
+        print(f'power consumption: {power_consumption}')
 
     life_support = life_support_decode(lines)
-    print(f'life support rating: {life_support}')
+    if output:
+        print(f'life support rating: {life_support}')
 
 
 if __name__ == '__main__':
-    main('input.txt')
+    start = time.time()
+    for iteration in range(0, 100):
+        main('input.txt', False)
+    end = time.time()
+    print(f'\nexecution time of 100 iterations in ms: {(end - start) * 1000}')
