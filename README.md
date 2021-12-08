@@ -10,8 +10,8 @@ https://adventofcode.com
 | 4   | :heavy_check_mark: | :heavy_check_mark: |                               |
 | 5   | :heavy_check_mark: | :heavy_check_mark: | able to solve with fresh take |
 | 6   | :heavy_check_mark: | :heavy_check_mark: | part 2 solved with help       |
-| 7   | :x:                | :x:                |                               |
-| 8   | :x:                | :x:                |                               |
+| 7   | :heavy_check_mark: | :heavy_check_mark: |                               |
+| 8   | :heavy_check_mark: | :x:                |                               |
 | 9   | :x:                | :x:                |                               |
 | 10  | :x:                | :x:                |                               |
 | 11  | :x:                | :x:                |                               |
