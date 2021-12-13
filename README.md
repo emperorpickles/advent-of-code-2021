@@ -16,7 +16,7 @@ https://adventofcode.com
 | 10  | :heavy_check_mark: | :x:                |                               |
 | 11  | :heavy_check_mark: | :heavy_check_mark: |                               |
 | 12  | :x:                | :x:                |                               |
-| 13  | :x:                | :x:                |                               |
+| 13  | :heavy_check_mark: | :heavy_check_mark: |                               |
 | 14  | :x:                | :x:                |                               |
 | 15  | :x:                | :x:                |                               |
 | 16  | :x:                | :x:                |                               |
