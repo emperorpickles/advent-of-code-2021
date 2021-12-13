@@ -7,17 +7,11 @@ import numpy as np
 
 def part_one():
     '''
-    Prints the number of fish after x number of days
-
-    Only works for part one, array becomes too large and slow to handle more than ~170 days
     '''
 
 
 def part_two():
     '''
-    Prints the number of fish after x number of days
-
-    Main idea found via reddit
     '''
 
 
