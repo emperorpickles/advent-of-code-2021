@@ -18,7 +18,7 @@ https://adventofcode.com
 | 12  | :x:                | :x:                |                                |
 | 13  | :heavy_check_mark: | :heavy_check_mark: |                                |
 | 14  | :heavy_check_mark: | :heavy_check_mark: | pretty happy with part 2 solve |
-| 15  | :x:                | :x:                |                                |
+| 15  | :heavy_check_mark: | :x:                | need to find faster solution   |
 | 16  | :x:                | :x:                |                                |
 | 17  | :x:                | :x:                |                                |
 | 18  | :x:                | :x:                |                                |
