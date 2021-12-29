@@ -15,12 +15,12 @@ https://adventofcode.com
 | 9   | :heavy_check_mark: | :heavy_check_mark: |                                |
 | 10  | :heavy_check_mark: | :x:                |                                |
 | 11  | :heavy_check_mark: | :heavy_check_mark: |                                |
-| 12  | :x:                | :x:                |                                |
+| 12  | :heavy_check_mark:                | :heavy_check_mark:                |                                |
 | 13  | :heavy_check_mark: | :heavy_check_mark: |                                |
 | 14  | :heavy_check_mark: | :heavy_check_mark: | pretty happy with part 2 solve |
 | 15  | :heavy_check_mark: | :x:                | need to find faster solution   |
 | 16  | :x:                | :x:                |                                |
-| 17  | :x:                | :x:                |                                |
+| 17  | :heavy_check_mark:                | :x:                |                                |
 | 18  | :x:                | :x:                |                                |
 | 19  | :x:                | :x:                |                                |
 | 20  | :x:                | :x:                |                                |
